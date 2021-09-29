@@ -1,0 +1,917 @@
+Sep 29, 2021 5:31:04 PM java_util_logging_Logger$info$2 call
+INFO: base_endings:
+Sep 29, 2021 5:31:04 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3219e956 (????? =Am | null)
+
+Sep 29, 2021 5:31:04 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:04 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6ceccde0 (???? =Alam | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6201adb9 (????? =DA2 | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1f30a0a4 (????? =DA | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@621eb94d (????? =A | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6817eb23 (????? =A2+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@794effd (????? =y+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1dbb4a2b (????? =y+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@a785c00 (?????????? =iy+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5de1f09f (?????????? =iy+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7d2a17d9 (?????????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3a87e045 (?????????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@72572349 (????? =awn | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@20604094 (????????? =An | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@dd90f9e (??????? =y+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@85943a8 (??????? =A | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@43df6481 (?????? =n+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6199f88e (?????? =n+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@24f9bedc (?????? =A-n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@667ffde8 (?????? =A-n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5ebc76ca (?????? =un+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@70cfb81b (?????? =un+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1929f780 ( ?????????? =At- | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test:  ??????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@a0d9f0 (?????? =At- | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3d97f508 (?????? =In | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ??????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@30159dc1 (??????? =At- | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@66d6e9b4 (????? =I3+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@60bfc3c7 (????? =I3+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ?????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6202556d (???????? =A7+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7ee53779 (???????? =A7+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2f2fea58 (???????? =At- | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ????????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3190b581 (??? =aqt | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@414927e3 (??????? =r+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@16408e4c (??????? =r+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@466ddbf6 (??????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@72e55207 (??????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: ???????
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7a9b0587 (poetry =????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@68bbc676 (poetry =???? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@402102fc (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@188c0595 (poetry =????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3a198c3e (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@ca7757d (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4459a0f7 (poetry =????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3c81b544 (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4a0fa696 (poetry =???? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7d343e37 (poetry =?????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7463777e (poetry =??????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@45f9c723 (poetry =?????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@72f5f21c (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2eecaff3 (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@415bf5d7 (poetry = ????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4a90e200 (poetry =??????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@17a89c5c (poetry =????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5c703a6d (poetry =????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@421b8979 (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@f56f3d8 (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5c4fc412 (poetry =????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1313ea4 (poetry = ????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1f7f3fba (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@270fd7be (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@542e819 (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@d8e320b (poetry =????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6b6a5eef (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3281c61b (poetry =???????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2091e272 (poetry = ?????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5cf39201 (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@65572256 (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@59da81f9 (poetry =???????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@76f77ac2 (poetry =???? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@36549d87 (poetry =?????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6acd4c89 (poetry =??????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6795cd60 (poetry = ??????????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2af98a3a (poetry =???????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@38d39247 (poetry =???????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@38fa28d0 (poetry =???????? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@71cd1c62 (poetry =??? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1783f03b (poetry =??? | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: arab string test: poetry
+
+Sep 29, 2021 5:31:05 PM java_util_logging_Logger$info$2 call
+INFO: rhymed_endings:
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@33e61926 (???? =Am | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5ab30b22 (??? =aqt | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4304321a (????? =uzn | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4b0e1069 (????????? =An | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@48221f07 (?????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@a8ae73a (?????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@687c9093 (???????? =a6 | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@53ca48ad (???????? =i6 | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@b48bff4 (???????? =a6 | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@56a63a90 (??????? =In | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5ad2c0df ( ?????? =Iba | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5b5c7408 (?????? =U7iSH | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@15a5c788 ( ??????????? =U*n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@72b01d16 ( ??????????? =U*n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3e28efa7 (????????? =nA2 | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6ec305e (????????? =nA | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3dce3e8c (??????? =An | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4fe4cc8e ( ????????? =nA | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@36484702 (?????? =Is | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@51c1ff55 (???????? =s+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1db791bf (???????? =s+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@745eae3b (???????? =U*n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@da87e5 (???????? =U*n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5ebffbfc ( ????????? =j+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7f24b3fd ( ????????? =j+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7e8ae554 ( ????????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2a3bb0cf ( ????????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@b7ade6f (????????? =q+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@519b2fa6 (????????? =q+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7892d084 (????? =Ayiq+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@f58aa91 (????? =Ayiq+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@528c84b3 (????? =Ayiq | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5a62775b (???? =KH+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@349a9a63 (???? =KH+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7e5ca243 (?????? =kA2 | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@48c31827 (???? =7Ib | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@15266cb (???? =Ib | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@617bad00 (?????? =Il | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7aae55d6 (???? =THA2 | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2afc6884 (???????? =A7+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@380a272e (???????? =A7+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4a59e82 (???? =wA | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@c2d6b25 (????? =s+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@45dc9a6c (????? =s+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2c86f6ae (????? =A-n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@47f2c32 (????? =A-n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@636c0bdb (??????? =n+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@42c2e220 (??????? =n+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@59ea5f50 (??????? =A-n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2489f6e3 (??????? =A-n | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2738137a (??????? =a3n+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@72be365f (??????? =a3n+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@79a5e787 (??????? =An+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@12f028be (??????? =An+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@75345a59 (??????? =An+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@763b866e (??????? =I | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2074def1 (???? =A-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@33d2b799 (???? =A-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6463c528 (???????? =Ul | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4e41373c (???? =zA | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4844eb53 (??????????? =iyy+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6e8ce3bd (??????????? =iyy+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@14bc21c1 (??????????? =iy+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@53030cbd (??????????? =iy+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3cf26bfd (??????????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@356ae6d5 (??????????? =a-t | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@402d6b90 (?????? =Am | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@b00e1cc (????? =Un | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2482ced2 (?????? =Ad | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@463cd8d9 (???? =Im+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6d665a65 (???? =Im+ | null)
+
+Sep 29, 2021 5:31:05 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6164c884 (???????? =an | null)
+
+Sep 29, 2021 5:31:08 PM java_util_logging_Logger$info$2 call
+INFO: after intersection, before deletion
+Sep 29, 2021 5:31:08 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@53a27e24 (????? =Am | ????=Am)
+
+Sep 29, 2021 5:31:08 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@73788e99 (????? =Am | ??????=Am)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2c1257e1 (????? =A | ?????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6bf59a0f (????? =A | ???????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2b668a0b (????? =A | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@1c5dc5b8 (?????????? =iy+ | ???????????=iy+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@224e348d (?????????? =iy+ | ???????????=iy+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@652ce729 (?????????? =a-t | ??????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7a051f55 (?????????? =a-t |  ?????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@88775a8 (?????????? =a-t | ???????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5bbec269 (?????????? =a-t | ??????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@59296398 (?????????? =a-t |  ?????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@b04205f (?????????? =a-t | ???????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@381d2ea2 (????????? =An | ?????????=An)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@159d1e42 (????????? =An | ???????=An)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7ba9aca (??????? =A | ?????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2d1654ba (??????? =A | ???????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7c2f0784 (??????? =A | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@13d694d (?????? =n+ | ?????????=nA)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5202cf6a (?????? =n+ |  ?????????=nA)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4d2ef214 (?????? =n+ | ???????=n+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4939df12 (?????? =n+ | ???????=n+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@23a4b079 (?????? =A-n | ?????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@679952f8 (?????? =A-n | ???????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5d9db24d (?????? =A-n | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5a5b27a3 (?????? =A-n | ?????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5c7a63e9 (?????? =A-n | ???????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@71d9e40c (?????? =A-n | ????????=an)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@41e63fa0 ( ?????????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@42836e00 (?????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4de92892 (?????? =In | ???????=In)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@73ae5ca7 (?????? =In |  ???????????=U*n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3c5664d (?????? =In | ????????=U*n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5a6feb5b (??????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5ec6e53c (???????? =A7+ | ????????=A7+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5f0cd127 (???????? =A7+ | ????????=A7+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@77532385 (???????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@52c33b07 (??? =aqt | ???=aqt)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3bc5db66 (??????? =a-t | ??????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@279a0d0 (??????? =a-t |  ?????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6c58f411 (??????? =a-t | ???????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2708f19e (??????? =a-t | ??????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@328310f2 (??????? =a-t |  ?????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7db34952 (??????? =a-t | ???????????=a-t)
+
+Sep 29, 2021 5:31:09 PM java_util_logging_Logger$info$2 call
+INFO: after deletion
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@53a27e24 (????? =Am | ????=Am)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@73788e99 (????? =Am | ??????=Am)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2c1257e1 (????? =A | ?????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@6bf59a0f (????? =A | ???????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2b668a0b (????? =A | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@224e348d (?????????? =iy+ | ???????????=iy+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5bbec269 (?????????? =a-t | ??????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@59296398 (?????????? =a-t |  ?????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@b04205f (?????????? =a-t | ???????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@381d2ea2 (????????? =An | ?????????=An)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@159d1e42 (????????? =An | ???????=An)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7ba9aca (??????? =A | ?????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2d1654ba (??????? =A | ???????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7c2f0784 (??????? =A | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@13d694d (?????? =n+ | ?????????=nA)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5202cf6a (?????? =n+ |  ?????????=nA)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4939df12 (?????? =n+ | ???????=n+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5d9db24d (?????? =A-n | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5a5b27a3 (?????? =A-n | ?????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5c7a63e9 (?????? =A-n | ???????=A-n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@71d9e40c (?????? =A-n | ????????=an)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@41e63fa0 ( ?????????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@42836e00 (?????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@4de92892 (?????? =In | ???????=In)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@73ae5ca7 (?????? =In |  ???????????=U*n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@3c5664d (?????? =In | ????????=U*n)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5a6feb5b (??????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@5f0cd127 (???????? =A7+ | ????????=A7+)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@77532385 (???????? =At- | ????=A-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@52c33b07 (??? =aqt | ???=aqt)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@2708f19e (??????? =a-t | ??????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@328310f2 (??????? =a-t |  ?????????=a-t)
+
+Sep 29, 2021 5:31:09 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: ending Rhymed_ending@7db34952 (??????? =a-t | ???????????=a-t)
+

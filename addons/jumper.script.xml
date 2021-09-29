@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon name="jumper" version="v1.0.1" latestVersion="" freeplaneVersionFrom="1.8.5" homepage="https://github.com/lilive/Freeplane-Jumper" updateUrl="https://github.com/lilive/Freeplane-Jumper/raw/master/version.properties" author="lilive" active="true">
+    <description><![CDATA[A fully keyboard driven search box that filters the nodes on-the-fly as the user types the search terms, and allows to jump to one of the results.
+
+Jumper, the Jumping Filter, provides an easy and quick way to search for nodes in Freeplane maps. Press Jumper keyboard shortcut, type some text snippets, and you will instantly see all the nodes (or branches !) that contain them in the Jumper window. Select one of these nodes to select it in the map.
+
+Main features:
+- Search results updated as you type
+- Matching text is highlighted in the results list
+- Regular search or transversal search (find words or text snippets across a branch)
+- Words or text snippets can be searched in any order
+- Search in any part of the nodes (core text, details, notes, attributes)
+- Plain text or regular expressions search, case sensitive or insensitive
+- Can focus the map view on the node selected in the results list
+- Search the whole map, only the siblings of the selected node, or its descendants
+- Search history
+- Keyboard shortcuts for all the search options
+- Persistent search settings
+- Many options to customize the results appearence]]></description>
+    <license><![CDATA[
+This add-on is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+]]></license>
+    <preferences.xml/>
+    <translations>
+        <locale name="en">
+            <entry key="addons.jumper"><![CDATA[Jumper]]></entry>
+            <entry key="addons.jumper.run"><![CDATA[Jumper]]></entry>
+        </locale>
+    </translations>
+    <default.properties addons.jumper.run_on_single_node.icon="/images/jumper-icon.svg"/>
+    <images>
+        <image name="jumper.png"/>
+        <image name="jumper-screenshot-1.png"/>
+        <image name="jumper-icon.svg"/>
+    </images>
+    <deinstall>
+        <delete><![CDATA[${installationbase}/addons/jumper.script.xml]]></delete>
+        <delete><![CDATA[${installationbase}/addons/jumper/scripts/run.groovy]]></delete>
+        <delete><![CDATA[${installationbase}/addons/jumper/lib/jumper.jar]]></delete>
+        <delete><![CDATA[${installationbase}/addons/jumper]]></delete>
+        <delete><![CDATA[${installationbase}/resources/images/jumper.png]]></delete>
+        <delete><![CDATA[${installationbase}/resources/images/jumper-screenshot-1.png]]></delete>
+        <delete><![CDATA[${installationbase}/resources/images/jumper-icon.svg]]></delete>
+    </deinstall>
+    <scripts>
+        <script name="run.groovy" menuTitleKey="addons.jumper.run" menuLocation="/menu_bar/edit/find" executionMode="ON_SINGLE_NODE" execute_scripts_without_asking="true" execute_scripts_without_file_restriction="true" execute_scripts_without_write_restriction="true" execute_scripts_without_exec_restriction="false" execute_scripts_without_network_restriction="false" signed_script_are_trusted="false"/>
+    </scripts>
+    <libs>
+        <lib name="jumper.jar"/>
+    </libs>
+</addon>

@@ -1,0 +1,251 @@
+<map version="freeplane 1.9.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<attribute_registry SHOW_ATTRIBUTES="selected">
+    <attribute_name MANUAL="true" NAME="src">
+        <attribute_value VALUE=""/>
+        <attribute_value VALUE="cottee"/>
+        <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E"/>
+        <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
+    </attribute_name>
+</attribute_registry>
+<node TEXT="ai" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1632652331747"><hook NAME="MapStyle" zoom="1.213">
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="false" show_notes_in_map="false" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
+<font SIZE="24"/>
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
+<font NAME="Verdana" SIZE="10" BOLD="false" ITALIC="false"/>
+<richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details">
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes" STYLE="fork">
+<font NAME="Consolas" SIZE="10" BOLD="false" STRIKETHROUGH="false"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#ffffff" TEXT_ALIGN="LEFT">
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge" COLOR="#000000"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ffcccc" STYLE="bubble" BORDER_WIDTH="2 px" BORDER_COLOR_LIKE_EDGE="false">
+<edge COLOR="#000000"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="styles.important" ID="ID_67550811">
+<icon BUILTIN="yes"/>
+<arrowlink COLOR="#003399" TRANSPARENCY="255" DESTINATION="ID_67550811"/>
+<edge COLOR="#000000"/>
+<font NAME="Verdana"/>
+</stylenode>
+<stylenode TEXT="source" ID="ID_1537999715" COLOR="#7f7f7f" STYLE="bubble">
+<icon BUILTIN="emoji-26F2"/>
+<font BOLD="true"/>
+</stylenode>
+<stylenode TEXT="polemic" ID="ID_1234796638" COLOR="#7f7f7f" STYLE="bubble">
+<icon BUILTIN="emoji-1F5E3"/>
+<font BOLD="true"/>
+</stylenode>
+<stylenode TEXT="structuring hub" ID="ID_1662213094" COLOR="#7f7f7f" STYLE="bubble">
+<font BOLD="true" ITALIC="false"/>
+</stylenode>
+<stylenode TEXT="objection" ID="ID_772028533" COLOR="#7f7f7f" STYLE="bubble">
+<icon BUILTIN="closed"/>
+<font BOLD="true" ITALIC="false"/>
+</stylenode>
+<stylenode TEXT="lacking info" ID="ID_1832303129" FORMAT_AS_HYPERLINK="false" COLOR="#666666">
+<icon BUILTIN="help"/>
+<font BOLD="false" ITALIC="true"/>
+</stylenode>
+<stylenode TEXT="against" ID="ID_1225383813">
+<icon BUILTIN="button_cancel"/>
+</stylenode>
+<stylenode TEXT="in favour of" ID="ID_112429140">
+<icon BUILTIN="button_ok"/>
+</stylenode>
+<stylenode TEXT="info node" ID="ID_154232785">
+<icon BUILTIN="info"/>
+</stylenode>
+<stylenode TEXT="source node" ID="ID_1296520994">
+<icon BUILTIN="emoji-26F2"/>
+</stylenode>
+<stylenode TEXT="speech" ID="ID_160530891">
+<icon BUILTIN="emoji-1F5E3"/>
+<font ITALIC="true"/>
+</stylenode>
+<stylenode TEXT="topic" ID="ID_756631423" COLOR="#7f7f7f" STYLE="fork">
+<font BOLD="true" ITALIC="false"/>
+</stylenode>
+<stylenode TEXT="history event" ID="ID_1131534156" BACKGROUND_COLOR="#e5e5e5" STYLE="fork" SHAPE_HORIZONTAL_MARGIN="1 pt" SHAPE_VERTICAL_MARGIN="1 pt" NUMBERED="false" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1 px" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#cccccc" BORDER_DASH_LIKE_EDGE="false" BORDER_DASH="SOLID">
+<font NAME="Noto Sans" BOLD="false"/>
+<edge STYLE="bezier" COLOR="#cccccc" WIDTH="1" DASH="SOLID"/>
+</stylenode>
+<stylenode TEXT="date" ID="ID_612383430" COLOR="#000000" BACKGROUND_COLOR="#ffffff" STYLE="fork" BORDER_COLOR="#cccccc">
+<icon BUILTIN="emoji-1F552"/>
+<font BOLD="false"/>
+<edge COLOR="#cccccc" WIDTH="1"/>
+</stylenode>
+<stylenode TEXT="wrong place" ID="ID_1192160512" COLOR="#990000">
+<icon BUILTIN="help"/>
+</stylenode>
+<stylenode TEXT="list item" ID="ID_1531959439" NUMBERED="true"/>
+<stylenode TEXT="end of my speech" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="help"/>
+</stylenode>
+<stylenode TEXT="--------------------------------" BACKGROUND_COLOR="#ffffff">
+<font BOLD="true"/>
+</stylenode>
+<stylenode TEXT="alt E" ID="ID_205177288" BACKGROUND_COLOR="#ffffec">
+<icon BUILTIN="help"/>
+</stylenode>
+<stylenode TEXT="done" COLOR="#666666" BACKGROUND_COLOR="#cccccc">
+<icon BUILTIN="emoji-2B1B"/>
+</stylenode>
+<stylenode TEXT="action">
+<icon BUILTIN="launch"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#ffffff" BACKGROUND_COLOR="#000000" STYLE="fork" SHAPE_HORIZONTAL_MARGIN="10 pt" SHAPE_VERTICAL_MARGIN="10 pt" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
+<font SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#7f7f7f">
+<font NAME="Verdana" SIZE="16" BOLD="true"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#7f7f7f">
+<font NAME="Verdana" SIZE="14" BOLD="true"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#7f7f7f">
+<font NAME="Verdana" SIZE="12" BOLD="true"/>
+<edge COLOR="#000000"/>
+</stylenode>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<node TEXT="type: project" POSITION="left" ID="ID_683065071" CREATED="1631768151045" MODIFIED="1632652341983"/>
+<node TEXT="bookmarks: done" STYLE_REF="done" POSITION="left" ID="ID_1334217373" CREATED="1632064659870" MODIFIED="1632136937093"/>
+<node TEXT="legend" POSITION="left" ID="ID_49802336" CREATED="1632692624170" MODIFIED="1632692627877">
+<node TEXT="icons" ID="ID_143750967" CREATED="1632698164973" MODIFIED="1632698166792">
+<node TEXT="implemented as a class" ID="ID_824684101" CREATED="1632692658197" MODIFIED="1632843919707" ICON_SIZE="20 pt">
+<icon BUILTIN="box@b"/>
+<icon BUILTIN="box_2d@b_"/>
+<icon BUILTIN="box_open@b"/>
+</node>
+<node TEXT="performed actions" ID="ID_1227376260" CREATED="1632692808705" MODIFIED="1632843272587" ICON_SIZE="20 pt">
+<icon BUILTIN="cog@b"/>
+</node>
+</node>
+<node TEXT="abbreviations" ID="ID_57577033" CREATED="1632698169568" MODIFIED="1632698172983">
+<node TEXT="doc: documentation" ID="ID_1233211989" CREATED="1632698174304" MODIFIED="1632698180892"/>
+<node TEXT="impl: implementation" ID="ID_425363286" CREATED="1632698181664" MODIFIED="1632698185978"/>
+</node>
+</node>
+<node TEXT="modules" STYLE_REF="topic" POSITION="right" ID="ID_303254332" CREATED="1632652373243" MODIFIED="1632652498554">
+<node TEXT="figure manipulation" ID="ID_239841977" CREATED="1632652392471" MODIFIED="1632698380248">
+<node TEXT="stencil_applier" ID="ID_1577756641" CREATED="1632674324023" MODIFIED="1632697925199" LINK="../../../../prj/unity_ai/Assets/scripts/unity_ai/Stencil_applier/">
+<icon BUILTIN="class"/>
+<node TEXT="" LOCALIZED_STYLE_REF="default" ID="ID_1690698098" CREATED="1632698389757" MODIFIED="1632698406069">
+<icon BUILTIN="info_black"/>
+</node>
+<node TEXT="doc" ID="ID_446955811" CREATED="1632698088413" MODIFIED="1632698092144"/>
+<node TEXT="impl" ID="ID_1026097529" CREATED="1632698154714" MODIFIED="1632698157421">
+<node TEXT="unity" ID="ID_121660820" CREATED="1632698228404" MODIFIED="1632698276275" LINK="../../../../prj/unity_ai/Assets/scripts/unity_ai/Stencil_applier/"/>
+</node>
+</node>
+<node TEXT="pattern_finder" ID="ID_831801661" CREATED="1632674343840" MODIFIED="1632697935780" LINK="../../../../prj/unity_ai/Assets/scripts/unity_ai/Pattern_finder/">
+<icon BUILTIN="class"/>
+<node TEXT="" ID="ID_1033542365" CREATED="1632698476716" MODIFIED="1632698480214">
+<icon BUILTIN="info_black"/>
+</node>
+<node TEXT="interface" ID="ID_996108111" CREATED="1632698076155" MODIFIED="1632698084693">
+<node TEXT="in:history" ID="ID_1804311470" CREATED="1632696515597" MODIFIED="1632698137286"/>
+<node TEXT="out:patterns" ID="ID_1409202754" CREATED="1632696538460" MODIFIED="1632698141591"/>
+</node>
+<node TEXT="doc" ID="ID_1662623291" CREATED="1632698088413" MODIFIED="1632698092144"/>
+<node TEXT="impl" ID="ID_1848904190" CREATED="1632698154714" MODIFIED="1632698157421">
+<node TEXT="unity" ID="ID_550676609" CREATED="1632698228404" MODIFIED="1632698262030" LINK="../../../../prj/unity_ai/Assets/scripts/unity_ai/Pattern_finder/"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="objects" STYLE_REF="topic" POSITION="right" ID="ID_1902469308" CREATED="1632652416117" MODIFIED="1632652499107">
+<node TEXT="action" LOCALIZED_STYLE_REF="default" ID="ID_116239914" CREATED="1632653173466" MODIFIED="1632695120150">
+<icon BUILTIN="class"/>
+<node TEXT="start or end" LOCALIZED_STYLE_REF="default" ID="ID_203101022" CREATED="1632661278385" MODIFIED="1632843458061">
+<icon BUILTIN="info_circle@b"/>
+<node TEXT="of a figure" LOCALIZED_STYLE_REF="default" ID="ID_1572738222" CREATED="1632663599889" MODIFIED="1632695965713" LINK="#ID_456447488"/>
+<node TEXT="of a pattern" ID="ID_74154298" CREATED="1632663602617" MODIFIED="1632696093857" LINK="#ID_1800053006">
+<node TEXT="long pattern" ID="ID_309014925" CREATED="1632667139404" MODIFIED="1632667940606" LINK="#ID_1798424223"/>
+<node TEXT="base signal" ID="ID_356145750" CREATED="1632667154609" MODIFIED="1632667922516" LINK="#ID_16202785"/>
+</node>
+</node>
+<node TEXT="two of them represent a base signal" LOCALIZED_STYLE_REF="default" ID="ID_1141160856" CREATED="1632653189150" MODIFIED="1632843447303">
+<icon BUILTIN="cog@b"/>
+<hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
+</node>
+</node>
+<node TEXT="history" LOCALIZED_STYLE_REF="default" ID="ID_74294546" CREATED="1632652535678" MODIFIED="1632695120149">
+<icon BUILTIN="class"/>
+<node TEXT="stores all actions" LOCALIZED_STYLE_REF="default" ID="ID_1764693530" CREATED="1632652563385" MODIFIED="1632843447303">
+<icon BUILTIN="cog@b"/>
+</node>
+</node>
+<node TEXT="pattern" LOCALIZED_STYLE_REF="default" ID="ID_1800053006" CREATED="1632668003992" MODIFIED="1632693097079">
+<icon BUILTIN="class"/>
+<node TEXT="base signal" LOCALIZED_STYLE_REF="default" ID="ID_16202785" CREATED="1632667640489" MODIFIED="1632695934086">
+<node TEXT="start and end actions" LOCALIZED_STYLE_REF="default" ID="ID_1677590531" CREATED="1632667660625" MODIFIED="1632843458062">
+<icon BUILTIN="info_circle@b"/>
+</node>
+<node TEXT="stores an unprocessed (raw) input" LOCALIZED_STYLE_REF="default" ID="ID_1106228256" CREATED="1632667685613" MODIFIED="1632843447303">
+<icon BUILTIN="cog@b"/>
+<node TEXT="isn&apos;t that needed for outputs" STYLE_REF="lacking info" ID="ID_1464657185" CREATED="1632667727921" MODIFIED="1632667754655"/>
+</node>
+</node>
+<node TEXT="long pattern" LOCALIZED_STYLE_REF="default" ID="ID_1798424223" CREATED="1632652429159" MODIFIED="1632695934092">
+<node TEXT="a sequence of actions as a figure" LOCALIZED_STYLE_REF="default" ID="ID_1829914945" CREATED="1632652612940" MODIFIED="1632843458062">
+<icon BUILTIN="info_circle@b"/>
+</node>
+<node TEXT="stores newly found consequences" LOCALIZED_STYLE_REF="default" ID="ID_1797044550" CREATED="1632660876585" MODIFIED="1632843447303">
+<icon BUILTIN="cog@b"/>
+</node>
+<node TEXT="rename into &quot;sequence&quot;" STYLE_REF="lacking info" ID="ID_1703137256" CREATED="1632667194809" MODIFIED="1632667208666"/>
+</node>
+</node>
+<node TEXT="figure" LOCALIZED_STYLE_REF="default" ID="ID_456447488" CREATED="1632652436242" MODIFIED="1632695120141" LINK="../../../../ydisk/doc/cognitus/Figures/">
+<icon BUILTIN="class"/>
+<node TEXT="a graph of figures" LOCALIZED_STYLE_REF="default" ID="ID_193105785" CREATED="1632652923871" MODIFIED="1632843458063">
+<icon BUILTIN="info_circle@b"/>
+<node TEXT="the smallest figure is a base signal" ID="ID_774406230" CREATED="1632652960550" MODIFIED="1632696345593" LINK="#ID_16202785"/>
+</node>
+<node TEXT="stores important consequences" LOCALIZED_STYLE_REF="default" ID="ID_560309985" CREATED="1632660876585" MODIFIED="1632843447301">
+<icon BUILTIN="cog@b"/>
+</node>
+</node>
+<node TEXT="stencil" LOCALIZED_STYLE_REF="default" ID="ID_934987555" CREATED="1632652696480" MODIFIED="1632695120147" LINK="../../../../ydisk/doc/cognitus/Stencils/">
+<icon BUILTIN="class"/>
+<node TEXT="a figure with outputs" LOCALIZED_STYLE_REF="default" ID="ID_1947529221" CREATED="1632652701829" MODIFIED="1632843458063">
+<icon BUILTIN="info_circle@b"/>
+</node>
+<node TEXT="constructing new figures from old ones" LOCALIZED_STYLE_REF="default" ID="ID_1804521571" CREATED="1632660286074" MODIFIED="1632843447303">
+<icon BUILTIN="cog@b"/>
+</node>
+</node>
+</node>
+</node>
+</map>

@@ -1,0 +1,257 @@
+<map version="freeplane 1.9.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<attribute_registry SHOW_ATTRIBUTES="selected">
+    <attribute_name MANUAL="true" NAME="src">
+        <attribute_value VALUE=""/>
+        <attribute_value VALUE="cottee"/>
+        <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E"/>
+        <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
+    </attribute_name>
+</attribute_registry>
+<node TEXT="adaptation of religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1630328058708"><hook NAME="MapStyle" zoom="1.242">
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+
+<map_styles>
+<stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
+<font SIZE="24"/>
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="default" ID="ID_271890427" ICON_SIZE="12 pt" COLOR="#000000" STYLE="fork" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#000000" WIDTH="2" TRANSPARENCY="200" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_271890427" STARTARROW="DEFAULT" ENDARROW="NONE"/>
+<font NAME="Verdana" SIZE="10" BOLD="false" ITALIC="false"/>
+<richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
+<richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.details">
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.attributes" STYLE="fork">
+<font NAME="Consolas" SIZE="10" BOLD="false" STRIKETHROUGH="false"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.note" COLOR="#000000" BACKGROUND_COLOR="#ffffff" TEXT_ALIGN="LEFT">
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.floating">
+<edge STYLE="hide_edge" COLOR="#000000"/>
+<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ff9999" STYLE="bubble" BORDER_COLOR_LIKE_EDGE="false">
+<edge COLOR="#000000"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right" STYLE="bubble">
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="styles.important" ID="ID_67550811">
+<icon BUILTIN="yes"/>
+<arrowlink COLOR="#003399" TRANSPARENCY="255" DESTINATION="ID_67550811"/>
+<edge COLOR="#000000"/>
+<font NAME="Verdana"/>
+</stylenode>
+<stylenode TEXT="source" ID="ID_1537999715" COLOR="#7f7f7f" STYLE="bubble">
+<icon BUILTIN="emoji-26F2"/>
+<font BOLD="true"/>
+</stylenode>
+<stylenode TEXT="polemic" COLOR="#7f7f7f" STYLE="bubble">
+<icon BUILTIN="emoji-1F5E3"/>
+<font BOLD="true"/>
+</stylenode>
+<stylenode TEXT="structuring hub" COLOR="#7f7f7f" STYLE="bubble">
+<font BOLD="true" ITALIC="false"/>
+</stylenode>
+<stylenode TEXT="objection" COLOR="#7f7f7f" STYLE="bubble">
+<icon BUILTIN="closed"/>
+<font BOLD="true" ITALIC="false"/>
+</stylenode>
+<stylenode TEXT="against">
+<icon BUILTIN="button_cancel"/>
+</stylenode>
+<stylenode TEXT="in favour of">
+<icon BUILTIN="button_ok"/>
+</stylenode>
+<stylenode TEXT="info node">
+<icon BUILTIN="info"/>
+</stylenode>
+<stylenode TEXT="source node">
+<icon BUILTIN="emoji-26F2"/>
+</stylenode>
+<stylenode TEXT="lacking info" FORMAT_AS_HYPERLINK="false" COLOR="#666666">
+<icon BUILTIN="help"/>
+<font BOLD="false" ITALIC="true"/>
+</stylenode>
+<stylenode TEXT="speech">
+<icon BUILTIN="emoji-1F5E3"/>
+<font ITALIC="true"/>
+</stylenode>
+<stylenode TEXT="topic" COLOR="#7f7f7f" STYLE="fork">
+<font BOLD="true" ITALIC="false"/>
+</stylenode>
+</stylenode>
+<stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right" STYLE="bubble">
+<edge COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#ffffff" BACKGROUND_COLOR="#000000" STYLE="fork" SHAPE_HORIZONTAL_MARGIN="10 pt" SHAPE_VERTICAL_MARGIN="10 pt" BORDER_COLOR_LIKE_EDGE="false" BORDER_COLOR="#000000">
+<font SIZE="10" BOLD="true"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#7f7f7f">
+<font NAME="Verdana" SIZE="16" BOLD="true"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#7f7f7f">
+<font NAME="Verdana" SIZE="14" BOLD="true"/>
+<edge COLOR="#000000"/>
+</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#7f7f7f">
+<font NAME="Verdana" SIZE="12" BOLD="true"/>
+<edge COLOR="#000000"/>
+</stylenode>
+</stylenode>
+</stylenode>
+</map_styles>
+</hook>
+<node STYLE_REF="info node" POSITION="right" ID="ID_539976180" CREATED="1630328062695" MODIFIED="1630331987920"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      religions are <b>memes</b>&nbsp;-
+    </p>
+    <p>
+      evolving code akin to DNA
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="" STYLE_REF="source node" ID="ID_1186163872" CREATED="1630328144575" MODIFIED="1630328148993">
+<node TEXT="it was discovered by Richard Dawkins" STYLE_REF="info node" ID="ID_998287598" CREATED="1630329078813" MODIFIED="1630332292900"/>
+<node TEXT="The selfish gene, by Dawkins" LOCALIZED_STYLE_REF="default" ID="ID_1319280901" CREATED="1630328087080" MODIFIED="1630332137741"/>
+<node TEXT="The extended phenotype, by Dawkins" STYLE_REF="lacking info" ID="ID_330787260" CREATED="1630328152949" MODIFIED="1630328482105"/>
+</node>
+</node>
+<node TEXT="spreading" POSITION="right" ID="ID_1328475186" CREATED="1630328791826" MODIFIED="1630332262854">
+<node TEXT="paganism" ID="ID_80747601" CREATED="1630338669730" MODIFIED="1630338673605">
+<node TEXT="passed to children naturally" STYLE_REF="in favour of" ID="ID_786379709" CREATED="1630338720277" MODIFIED="1630338734774"/>
+<node TEXT="regional by nature" STYLE_REF="against" ID="ID_1864459163" CREATED="1630338676324" MODIFIED="1630338794821"/>
+</node>
+<node TEXT="judaism" ID="ID_1811728300" CREATED="1630332405142" MODIFIED="1630339552300">
+<node TEXT="passed to children" STYLE_REF="in favour of" ID="ID_1573073539" CREATED="1630332427378" MODIFIED="1630339438206">
+<node TEXT="the biggest sin -&#xa;not ejaculating into your wife" ID="ID_740747715" CREATED="1630332516468" MODIFIED="1630333570123">
+<node TEXT="Genesis 38:9" STYLE_REF="source node" ID="ID_1601657718" CREATED="1630337271288" MODIFIED="1630337281828"/>
+</node>
+</node>
+<node TEXT="don&apos;t invite foreigners" STYLE_REF="against" ID="ID_338063676" CREATED="1630332468222" MODIFIED="1630332488907">
+<node TEXT="giyur exists" STYLE_REF="against" ID="ID_136579381" CREATED="1630333696731" MODIFIED="1630333753164">
+<node TEXT="but it&apos;s not advertised" STYLE_REF="against" ID="ID_1268093406" CREATED="1630333761640" MODIFIED="1630333770827"/>
+</node>
+</node>
+</node>
+<node TEXT="christianity" ID="ID_1510369160" CREATED="1630332364370" MODIFIED="1630332368265">
+<node TEXT="invite foreigners into religion" STYLE_REF="in favour of" ID="ID_1193695742" CREATED="1630332625667" MODIFIED="1630332721011">
+<node TEXT="started by Paul" STYLE_REF="lacking info" ID="ID_1704269793" CREATED="1630332659205" MODIFIED="1630332671538"/>
+</node>
+<node TEXT="neglect offspring, no family" STYLE_REF="against" ID="ID_799505305" CREATED="1630332722319" MODIFIED="1630332742236">
+<node TEXT="was prominent at early stages?" STYLE_REF="info node" ID="ID_851207758" CREATED="1630333002422" MODIFIED="1630337380126"/>
+<node TEXT="catholic priests lived in celebacy" STYLE_REF="in favour of" ID="ID_984145539" CREATED="1630332752249" MODIFIED="1630333001304"/>
+<node TEXT="orthodox priests do have a family" STYLE_REF="against" ID="ID_1102202006" CREATED="1630332931050" MODIFIED="1630333051730"/>
+<node TEXT="traditional christian family has many children" STYLE_REF="against" ID="ID_804423001" CREATED="1630332961081" MODIFIED="1630333067789"/>
+<node TEXT="Matthew 19:29" STYLE_REF="source node" ID="ID_1878769007" CREATED="1630336751350" MODIFIED="1630336799550" LINK="https://www.biblegateway.com/passage/?search=Matthew%2019%3A29&amp;version=NIV"/>
+</node>
+</node>
+<node TEXT="islam" ID="ID_328800937" CREATED="1630332368620" MODIFIED="1630332370215">
+<node STYLE_REF="info node" ID="ID_1796612924" CREATED="1630338978909" MODIFIED="1630338984494"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the fastest growing religion
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="convert foreigners" STYLE_REF="in favour of" ID="ID_623743908" CREATED="1630332846073" MODIFIED="1630339334207">
+<node TEXT="fight to convert neighbours" LOCALIZED_STYLE_REF="default" ID="ID_1530171140" CREATED="1630338875712" MODIFIED="1630339253047">
+<node TEXT="the early arab conquest" ID="ID_604689580" CREATED="1630338909395" MODIFIED="1630339034793"/>
+<node TEXT="unrecognised states" ID="ID_722759584" CREATED="1630339039524" MODIFIED="1630339054749">
+<node TEXT="taliban" ID="ID_1595496505" CREATED="1630339056057" MODIFIED="1630339058813"/>
+<node TEXT="isis" ID="ID_1883023244" CREATED="1630339059132" MODIFIED="1630339062864"/>
+<node TEXT="..." ID="ID_1605884644" CREATED="1630339116121" MODIFIED="1630339206695"/>
+</node>
+</node>
+<node TEXT="peaceful dawa targeting westerners" ID="ID_1933005410" CREATED="1630339272190" MODIFIED="1630339292503"/>
+</node>
+<node TEXT="big family" STYLE_REF="in favour of" ID="ID_1014995382" CREATED="1630332872041" MODIFIED="1630332883792"/>
+</node>
+</node>
+<node TEXT="self-preservation&#xa;of the religion" POSITION="right" ID="ID_1195175061" CREATED="1630332152627" MODIFIED="1630339959687">
+<node TEXT="paganism" ID="ID_1365497781" CREATED="1630334576339" MODIFIED="1630334581697">
+<node TEXT="greek" ID="ID_1571890899" CREATED="1630334736242" MODIFIED="1630335131193">
+<node TEXT="hell (underworld) for everybody" STYLE_REF="against" ID="ID_110546797" CREATED="1630334745362" MODIFIED="1630335140460"/>
+<node TEXT="afterlife depends on goodness rather then religiosity" STYLE_REF="against" ID="ID_1903725728" CREATED="1630335141478" MODIFIED="1630340020089">
+<node TEXT="Tartarus - the worst hell for the wicked" ID="ID_1724668659" CREATED="1630335204619" MODIFIED="1630335252885"/>
+<node TEXT="normal hell for good people" STYLE_REF="lacking info" ID="ID_692713922" CREATED="1630335218779" MODIFIED="1630335338093"/>
+</node>
+<node TEXT="punishment for disrespecting gods" STYLE_REF="in favour of" ID="ID_1138444978" CREATED="1630335392296" MODIFIED="1630335405195"/>
+</node>
+<node TEXT="hinduism" ID="ID_776285195" CREATED="1630335881314" MODIFIED="1630337653898">
+<node TEXT="the only survived paganism" STYLE_REF="info node" ID="ID_68775855" CREATED="1630336183819" MODIFIED="1630337636473"/>
+<node TEXT="geographical advantage?" STYLE_REF="in favour of" ID="ID_1913231369" CREATED="1630336215853" MODIFIED="1630336287172"/>
+</node>
+</node>
+<node TEXT="abrahamic" ID="ID_530089043" CREATED="1630337417970" MODIFIED="1630337441735">
+<node TEXT="judaism" ID="ID_1116659416" CREATED="1630333926472" MODIFIED="1630340342899">
+<node TEXT="no afterlife" STYLE_REF="against" ID="ID_182897963" CREATED="1630339758929" MODIFIED="1630339880643">
+<node TEXT="death was final at first" ID="ID_1311944433" CREATED="1630340345083" MODIFIED="1630340408767"/>
+<node TEXT="now - afterlife independent from religiosity" STYLE_REF="lacking info" ID="ID_1216909277" CREATED="1630340365027" MODIFIED="1630340384511"/>
+</node>
+<node TEXT="patriotism preserves religion as a nation" STYLE_REF="in favour of" ID="ID_146652329" CREATED="1630339905092" MODIFIED="1630340274342"/>
+</node>
+<node TEXT="christianity" ID="ID_48523471" CREATED="1630333938662" MODIFIED="1630333943795">
+<node TEXT="the biggest source of atheists in the west" STYLE_REF="info node" ID="ID_313788427" CREATED="1630335734964" MODIFIED="1630341160462"/>
+<node TEXT="heaven for adherents,&#xa;hell for disbelievers" STYLE_REF="in favour of" ID="ID_1213596484" CREATED="1630334348014" MODIFIED="1630337495063">
+<node TEXT="many preachers say good non-believers go to heaven" STYLE_REF="against" ID="ID_1093802259" CREATED="1630341390538" MODIFIED="1630341463344"/>
+</node>
+<node TEXT="free apostacy" STYLE_REF="against" ID="ID_225923224" CREATED="1630340480805" MODIFIED="1630340486657">
+<node TEXT="but blasphemy was punished in the past" STYLE_REF="against" ID="ID_863993038" CREATED="1630341669133" MODIFIED="1630341736335"/>
+</node>
+<node TEXT="listen to the critique" STYLE_REF="against" ID="ID_1516150274" CREATED="1630341207605" MODIFIED="1630341304300">
+<node TEXT="preachers show atheistic arguments to the parish" ID="ID_577510578" CREATED="1630341589597" MODIFIED="1630341781209"/>
+<node TEXT="active moderated debating" ID="ID_454821266" CREATED="1630341815272" MODIFIED="1630341847525"/>
+</node>
+</node>
+<node TEXT="islam" ID="ID_1831568333" CREATED="1630333944491" MODIFIED="1630333945815">
+<node TEXT="heaven &amp; hell" STYLE_REF="in favour of" ID="ID_189920561" CREATED="1630341246952" MODIFIED="1630341258166"/>
+<node TEXT="punish apostacy" STYLE_REF="in favour of" ID="ID_99206179" CREATED="1630332188270" MODIFIED="1630341275853">
+<node TEXT="by imprisonment" ID="ID_1467055447" CREATED="1630337814440" MODIFIED="1630338082406">
+<node TEXT="egypt" ID="ID_258181485" CREATED="1630337821096" MODIFIED="1630337825756"/>
+<node TEXT="iran" ID="ID_610408139" CREATED="1630337826593" MODIFIED="1630337828027"/>
+<node TEXT="arabian peninsula" STYLE_REF="lacking info" ID="ID_645029085" CREATED="1630337851528" MODIFIED="1630337873414"/>
+</node>
+<node TEXT="by death" ID="ID_463441781" CREATED="1630337833789" MODIFIED="1630338085763">
+<node TEXT="pure sharia" ID="ID_967239438" CREATED="1630337838950" MODIFIED="1630337843153">
+<node TEXT="lynch by vigilanties" STYLE_REF="in favour of" ID="ID_575347552" CREATED="1630337878734" MODIFIED="1630337935515"/>
+<node TEXT="unrecognised countries" ID="ID_34609906" CREATED="1630337970275" MODIFIED="1630337986432">
+<node TEXT="taliban" ID="ID_621205551" CREATED="1630337989798" MODIFIED="1630337997729"/>
+</node>
+<node TEXT="no country implemented fully" STYLE_REF="against" ID="ID_1911438659" CREATED="1630337911085" MODIFIED="1630337933906"/>
+</node>
+</node>
+<node TEXT="social shunning of apostates" LOCALIZED_STYLE_REF="default" ID="ID_1938816756" CREATED="1630334237332" MODIFIED="1630340805393"/>
+</node>
+<node TEXT="avoid listening to the critique" STYLE_REF="in favour of" ID="ID_565267002" CREATED="1630340997789" MODIFIED="1630341047473">
+<node TEXT="they are lying" STYLE_REF="speech" ID="ID_1171515528" CREATED="1630341055914" MODIFIED="1630341066962"/>
+</node>
+<node TEXT="" STYLE_REF="against" ID="ID_889151505" CREATED="1630342104158" MODIFIED="1630342113386"/>
+</node>
+</node>
+</node>
+</node>
+</map>

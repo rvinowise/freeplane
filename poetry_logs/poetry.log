@@ -1,0 +1,254 @@
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: useless: [iya (null | null), a (null | null), at (null | null), a (null | null), a (null | null), nA (dunan | ma3nan), A (dunan | ma3nan), an (dunan | ma3nan), A (dunan | null), A7a (null | null), a (null | null), a (null | null), a (null | null)]
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: endings BEFORE: [Am (null | null), Am (null | null), A (null | null), A (null | ma3nan), A (null | null), iya (null | null), iyat (null | null), a (null | null), a (null | null), a (null | null), at (null | null), at (null | null), at (null | null), An (null | null), An (null | null), A (null | null), A (null | ma3nan), A (null | null), nA (dunan | null), nA (dunan | null), nA (dunan | ma3nan), nan (dunan | ma3nan), A (dunan | null), A (dunan | ma3nan), A (dunan | null), an (dunan | null), an (dunan | ma3nan), an (dunan | null), At (null | null), At (null | null), In (null | null), In (null | null), In (null | null), At (null | null), A7a (null | null), A7at (null | null), At (null | null), aqt (null | null), a (null | null), a (null | null), a (null | null), at (null | null), at (null | null), at (null | null)]
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: endings AFTER: [Am (null | null), Am (null | null), A (null | null), A (null | ma3nan), A (null | null), iyat (null | null), at (null | null), at (null | null), An (null | null), An (null | null), A (null | null), A (null | ma3nan), A (null | null), nA (dunan | null), nA (dunan | null), nan (dunan | ma3nan), A (dunan | null), an (dunan | null), an (dunan | null), At (null | null), At (null | null), In (null | null), In (null | null), In (null | null), At (null | null), A7at (null | null), At (null | null), aqt (null | null), at (null | null), at (null | null), at (null | null)]
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=Am
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=Am
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=ma3nan
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=iyat
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=at
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=at
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=An
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=An
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=ma3nan
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A
+		
+Sep 29, 2021 9:51:53 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=dunan
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=nA
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=dunan
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=nA
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=dunan
+		rhymed_word=ma3nan
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=nan
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=dunan
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=dunan
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=an
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=dunan
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=an
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=At
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=At
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=In
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=In
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=In
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=At
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=A7at
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=At
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=aqt
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=at
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=at
+		
+Sep 29, 2021 9:51:54 PM org.codehaus.groovy.runtime.callsite.PlainObjectMetaMethodSite doInvoke
+INFO: appending_rhyme: 
+		base_word=null
+		rhymed_word=null
+		base_line=(Node) creation
+		rhymed_line=(Node) result
+		common_ending=at
+		

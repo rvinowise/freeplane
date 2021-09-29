@@ -1,0 +1,56 @@
+{
+    "candidatesType": 0,
+    "discardClones": false,
+    "discardHiddenNodes": true,
+    "history": [
+        "slave",
+        "good",
+        "sex",
+        "said"
+    ],
+    "currentPattern": "said",
+    "saveTime": 1631971667.377,
+    "searchOptions": {
+        "fromStart": false,
+        "caseSensitive": false,
+        "useNote": false,
+        "transversal": false,
+        "useDetails": false,
+        "useRegex": false,
+        "splitPattern": true,
+        "useAttributesValue": false,
+        "useAttributesName": false
+    },
+    "gui": {
+        "drs": {
+            "showNodesLevel": false,
+            "followSelected": true,
+            "recallLastPattern": true,
+            "lastPatternDuration": 60,
+            "coreFontSize": 14,
+            "detailsFontSize": 12,
+            "nodeDisplayLength": 200,
+            "ancestorDisplayLength": 15,
+            "nameDisplayLength": 15,
+            "valueDisplayLength": 30,
+            "highlightColor": "#ffff99",
+            "levelMarkColor": "#990000",
+            "attributesMarkColor": "#ff0066",
+            "coreForegroundColor": "#000000",
+            "coreBackgroundColor": "#f4f4f4",
+            "detailsForegroundColor": "#666666",
+            "detailsBackgroundColor": "#e5e5e5",
+            "selectedCoreForegroundColor": "#000000",
+            "selectedCoreBackgroundColor": "#babbff",
+            "selectedDetailsForegroundColor": "#333333",
+            "selectedDetailsBackgroundColor": "#d4d4ff"
+        },
+        "showOptions": false,
+        "rect": {
+            "x": 416.0,
+            "y": 411.0,
+            "width": 747.0,
+            "height": 498.0
+        }
+    }
+}
