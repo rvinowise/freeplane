@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg126"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="semicolon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview128"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="210mm"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="-52.718565"
+     inkscape:cy="354.88595"
+     inkscape:window-width="2560"
+     inkscape:window-height="1284"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs123" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 98.515756,2.397189 C 86.887645,4.1072032 76.285576,12.201264 70.92752,23.259334 67.051505,31.239412 66.937497,45.71753 70.699698,54.0396 c 7.866071,17.442133 28.842227,26.448186 46.170342,19.950148 4.78805,-1.824032 8.77807,-4.560031 14.47812,-10.032094 6.72605,-6.498039 8.09405,-8.664063 9.80408,-14.364109 C 148.9043,22.347334 126.9021,-1.9348449 98.515916,2.397189 Z"
+       id="path4"
+       style="stroke-width:0.114001" />
+    <path
+       d="m 91.447676,84.93381 c -10.830053,3.420047 -21.204139,14.136125 -24.054178,24.96621 -0.683985,2.50802 -1.026009,8.43605 -0.797993,13.11009 0.912,14.47812 8.32207,25.30822 21.660172,31.35026 3.534023,1.59601 6.954039,3.64803 7.638055,4.44605 1.824,2.16599 -0.570008,9.23408 -7.638055,22.57217 -5.016063,9.80405 -5.700047,11.62808 -4.788047,14.70611 3.078023,10.71607 17.21411,14.70609 27.47419,7.86606 5.47206,-3.53405 8.55008,-7.52407 18.01214,-22.57217 19.95018,-31.92025 18.58215,-72.39057 -2.96402,-90.174726 -9.00605,-7.410038 -22.91416,-10.032062 -34.542264,-6.270054 z"
+       id="path20"
+       style="stroke-width:0.114001" />
+  </g>
+</svg>

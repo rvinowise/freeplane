@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="adaptation of religion" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1630328058708"><hook NAME="MapStyle" zoom="1.2">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -205,9 +205,11 @@
 </node>
 <node TEXT="punishment for disrespecting gods" STYLE_REF="in favour of" ID="ID_1138444978" CREATED="1630335392296" MODIFIED="1630335405195"/>
 </node>
+<node TEXT="" ID="ID_597401252" CREATED="1631906841889" MODIFIED="1631906841889">
 <node TEXT="hinduism" ID="ID_776285195" CREATED="1630335881314" MODIFIED="1630337653898">
 <node TEXT="the only survived paganism" STYLE_REF="info node" ID="ID_68775855" CREATED="1630336183819" MODIFIED="1630337636473"/>
 <node TEXT="geographical advantage?" STYLE_REF="in favour of" ID="ID_1913231369" CREATED="1630336215853" MODIFIED="1630336287172"/>
+</node>
 </node>
 </node>
 <node TEXT="abrahamic" ID="ID_530089043" CREATED="1630337417970" MODIFIED="1630337441735">

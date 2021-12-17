@@ -1,4 +1,4 @@
-<map version="freeplane 1.9.0">
+<map version="freeplane 1.9.8">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="selected">
     <attribute_name MANUAL="true" NAME="src">
@@ -8,8 +8,8 @@
         <attribute_value VALUE="https://www.youtube.com/shorts/66t2mLXtj9E?&amp;ab_channel=THESTRAIGHTPATH"/>
     </attribute_name>
 </attribute_registry>
-<node TEXT="apostacy in islam" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1630084103645"><hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+<node TEXT="apostacy in islam" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1630084103645"><hook NAME="MapStyle" zoom="1.1">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -38,7 +38,7 @@
 <edge STYLE="hide_edge" COLOR="#000000"/>
 <cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
 </stylenode>
-<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ff9999" STYLE="bubble" BORDER_COLOR_LIKE_EDGE="false">
+<stylenode LOCALIZED_TEXT="defaultstyle.selection" BACKGROUND_COLOR="#ff9999" BORDER_COLOR_LIKE_EDGE="false">
 <edge COLOR="#000000"/>
 </stylenode>
 </stylenode>
@@ -113,16 +113,36 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="stages" STYLE_REF="topic" POSITION="right" ID="ID_1149949450" CREATED="1630064550111" MODIFIED="1630287509106">
-<edge COLOR="#000000"/>
-<attribute NAME="src" VALUE="cottee"/>
-<node TEXT="nagging whisper in the mind (waswas)" ID="ID_1674407662" CREATED="1630145448782" MODIFIED="1630280907633">
-<node TEXT="many muslims have waswas, but willingly avoid thinking about it, knowing that apostacy will destroy their life" ID="ID_1492114136" CREATED="1630280372154" MODIFIED="1630280527834">
-<attribute NAME="src" VALUE="cottee"/>
-<attribute NAME="find" VALUE=""/>
+<node TEXT="a slow process" LOCALIZED_STYLE_REF="default" POSITION="right" ID="ID_1149949450" CREATED="1630064550111" MODIFIED="1633948804734" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="causing events" STYLE_REF="list item" ID="ID_1264174804" CREATED="1633949066604" MODIFIED="1633949101640">
+<node TEXT="significant personal experiences" STYLE_REF="list item" ID="ID_1943233073" CREATED="1633949146789" MODIFIED="1633949245338">
+<node TEXT="death of a loved one" ID="ID_1558304941" CREATED="1633950153067" MODIFIED="1633950153067"/>
+<node TEXT="souring or severing of a life-long friendship" ID="ID_146447309" CREATED="1633950153067" MODIFIED="1633950153067"/>
+<node TEXT="break-up of a marriage" ID="ID_947758935" CREATED="1633950153070" MODIFIED="1633950153070"/>
+<node TEXT="diagnosis of a terminal illness" ID="ID_500515490" CREATED="1633950153071" MODIFIED="1633950153071"/>
+<node TEXT="loss of a business or a home" ID="ID_438298339" CREATED="1633950153073" MODIFIED="1633950153073"/>
+<node TEXT="discovery of a sexual infidelity" ID="ID_1500834911" CREATED="1633950153075" MODIFIED="1633950153075"/>
+<node TEXT="development of a new romantic attachment" ID="ID_1980267721" CREATED="1633950153076" MODIFIED="1633950153076">
+<node TEXT="coming to consciousness of one&apos;s gay identity" ID="ID_162470231" CREATED="1633950424135" MODIFIED="1633950424135"/>
+</node>
+<node TEXT="experience of terrible physical suffering or violent abuse" ID="ID_163647209" CREATED="1633950153078" MODIFIED="1633950153078"/>
+<node TEXT="cumulative build-up of familial obligations and pressures" ID="ID_66357483" CREATED="1633950153079" MODIFIED="1633950153079">
+<node TEXT="Shahin the indian" ID="ID_754674384" CREATED="1633950219789" MODIFIED="1633950279490">
+<icon BUILTIN="present@b"/>
 </node>
 </node>
-<node TEXT="questioning islam" ID="ID_1601992742" CREATED="1630143621844" MODIFIED="1630280913330">
+</node>
+<node TEXT="scriptural discoveries" STYLE_REF="list item" ID="ID_1656594143" CREATED="1633949165478" MODIFIED="1633949245339"/>
+<node TEXT="exposure to alternatives" STYLE_REF="list item" ID="ID_1784391618" CREATED="1633949180890" MODIFIED="1633949245340"/>
+<node TEXT="spiritual alienation" STYLE_REF="list item" ID="ID_1494643204" CREATED="1633949196275" MODIFIED="1633949267458"/>
+<node TEXT="political events" STYLE_REF="list item" ID="ID_1730399203" CREATED="1633949204471" MODIFIED="1633949245340"/>
+</node>
+<node TEXT="doubt" STYLE_REF="list item" ID="ID_1953985907" CREATED="1633947426460" MODIFIED="1635478548624" LINK="doubts.mm#ID_696401721" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
+<node TEXT="nagging whisper in the mind (waswas)" STYLE_REF="list item" ID="ID_1674407662" CREATED="1630145448782" MODIFIED="1632139730306">
+<node TEXT="many muslims have waswas, but willingly avoid thinking about it, knowing that apostacy will destroy their life" ID="ID_1492114136" CREATED="1630280372154" MODIFIED="1633041349253"/>
+</node>
+<node TEXT="questioning islam" STYLE_REF="list item" ID="ID_1601992742" CREATED="1630143621844" MODIFIED="1632139730307">
+<node TEXT="probing" STYLE_REF="list item" ID="ID_838013448" CREATED="1635478726748" MODIFIED="1635478733015">
 <node TEXT="proxying questions" ID="ID_202834348" CREATED="1630145520817" MODIFIED="1630145702588">
 <node ID="ID_1548349596" CREATED="1630145703734" MODIFIED="1630280185138">
 <icon BUILTIN="emoji-1F5E3"/>
@@ -164,41 +184,69 @@
 </richcontent>
 </node>
 </node>
+<node TEXT="seeking muslim confidants" ID="ID_703341599" CREATED="1635478760000" MODIFIED="1635478774927"/>
 </node>
-<node TEXT="deciding that one is not a muslim" ID="ID_173898060" CREATED="1630280796395" MODIFIED="1630280903084">
+<node TEXT="lonely deliberation" STYLE_REF="list item" ID="ID_513119909" CREATED="1635478733825" MODIFIED="1635478745441">
+<node TEXT="alone and in secret" ID="ID_1782768186" CREATED="1635478781924" MODIFIED="1635478795560"/>
+</node>
+</node>
+<node TEXT="subject" ID="ID_979790875" CREATED="1633947966911" MODIFIED="1633948178787" COLOR="#7f7f7f">
+<font BOLD="true"/>
+<node TEXT="epistemological" ID="ID_1673575847" CREATED="1633947656452" MODIFIED="1633947656452">
+<node TEXT="does God exist?" ID="ID_1606418158" CREATED="1633947794571" MODIFIED="1633947794571"/>
+<node TEXT="is the Quran the word of God?" ID="ID_108234585" CREATED="1633947794572" MODIFIED="1633947794572"/>
+<node TEXT="was Muhammad God’s messenger?" ID="ID_1334711040" CREATED="1633947794574" MODIFIED="1633947794574"/>
+</node>
+<node TEXT="moral" ID="ID_1486870458" CREATED="1633947685427" MODIFIED="1633947685427">
+<node TEXT="is Islam just?" ID="ID_1358840057" CREATED="1633947821898" MODIFIED="1633947821898"/>
+</node>
+<node TEXT="instrumental" ID="ID_298568109" CREATED="1633947594027" MODIFIED="1633947594027">
+<node TEXT="is Islam rational?" ID="ID_1424643952" CREATED="1633947830890" MODIFIED="1633947830890"/>
+</node>
+</node>
+<node TEXT="living in anxiety, uncertainty and conflict" ID="ID_1498040613" CREATED="1635533164684" MODIFIED="1635533200475">
+<icon BUILTIN="bad@bleak"/>
+</node>
+</node>
+<node TEXT="deciding that one is not a muslim" STYLE_REF="list item" ID="ID_173898060" CREATED="1630280796395" MODIFIED="1632139730309">
 <node TEXT="often when the religious experience should be the strongest" ID="ID_1792285876" CREATED="1630283554112" MODIFIED="1630283941230">
 <node TEXT="during hajj" ID="ID_404929542" CREATED="1630283575458" MODIFIED="1630283585094"/>
 <node TEXT="during ramadan" ID="ID_705237778" CREATED="1630283600866" MODIFIED="1630283604734"/>
 </node>
+<node TEXT="feeling strong relief" ID="ID_1631940200" CREATED="1635532985530" MODIFIED="1635533059644">
+<icon BUILTIN="good@bleak"/>
 </node>
-<node TEXT="disclosing the apostacy" ID="ID_643561276" CREATED="1630280887855" MODIFIED="1630280896771">
+<node TEXT="disavowal" ID="ID_1548712109" CREATED="1635532952189" MODIFIED="1635532976818">
+<icon BUILTIN="chain@b"/>
+</node>
+</node>
+<node TEXT="disclosing the apostacy" STYLE_REF="list item" ID="ID_643561276" CREATED="1630280887855" MODIFIED="1632139730311">
 <node TEXT="priority" STYLE_REF="structuring hub" ID="ID_791984819" CREATED="1630285882920" MODIFIED="1630287322741" STYLE="fork">
-<node TEXT="1. to the friends" ID="ID_291141903" CREATED="1630280929360" MODIFIED="1630281478525">
+<node TEXT="to the friends" STYLE_REF="list item" ID="ID_291141903" CREATED="1630280929360" MODIFIED="1632139774374">
 <node TEXT="muslim best friends often become enemies" ID="ID_547142376" CREATED="1630283844912" MODIFIED="1630283896703"/>
 </node>
-<node TEXT="2. to the siblings" ID="ID_394755605" CREATED="1630280948678" MODIFIED="1630281482982"/>
-<node TEXT="3. to the parents" ID="ID_1435185757" CREATED="1630280958407" MODIFIED="1630281494322">
+<node TEXT="to the siblings" STYLE_REF="list item" ID="ID_394755605" CREATED="1630280948678" MODIFIED="1632139774375"/>
+<node TEXT="to the parents" STYLE_REF="list item" ID="ID_1435185757" CREATED="1630280958407" MODIFIED="1632139774371">
 <node TEXT="parents often stay oblivious forever" ID="ID_400020874" CREATED="1630283756835" MODIFIED="1630283969600"/>
 </node>
 </node>
-<node TEXT="announcing" STYLE_REF="topic" ID="ID_1247083190" CREATED="1630060392491" MODIFIED="1630287507050">
-<edge COLOR="#000000"/>
-<node TEXT="preparing recipients by becoming lax in rituals" ID="ID_1574262287" CREATED="1630287755674" MODIFIED="1630287823471">
+<node TEXT="preparing recipients by becoming lax in rituals" STYLE_REF="list item" ID="ID_1574262287" CREATED="1630287755674" MODIFIED="1633948136721">
 <node TEXT="coming late for prayers" ID="ID_1377661959" CREATED="1630287834373" MODIFIED="1630287843313"/>
 <node TEXT="loosening hijab" ID="ID_1281789701" CREATED="1630287852375" MODIFIED="1630287859228"/>
 </node>
+<node TEXT="announcing" STYLE_REF="list item" ID="ID_1247083190" CREATED="1630060392491" MODIFIED="1633948163122" COLOR="#000000" BACKGROUND_COLOR="#ffffff">
 <node TEXT="quietly" ID="ID_1028987756" CREATED="1630060627761" MODIFIED="1630060640418"/>
 <node TEXT="loudly" ID="ID_1749893892" CREATED="1630060641032" MODIFIED="1630060645029"/>
 </node>
 </node>
-<node TEXT="hatred, decrying islam" ID="ID_1508977383" CREATED="1630147082687" MODIFIED="1630280919228">
+<node TEXT="hatred, decrying islam" STYLE_REF="list item" ID="ID_1508977383" CREATED="1630147082687" MODIFIED="1632139730312">
 <node TEXT="revelling in the anonymity of online forums" ID="ID_1920797760" CREATED="1630279777062" MODIFIED="1630279870127"/>
 </node>
-<node TEXT="shame for decrying islam, cooling down" ID="ID_1933979691" CREATED="1630279513642" MODIFIED="1630279610211"/>
+<node TEXT="shame for decrying islam, cooling down" STYLE_REF="list item" ID="ID_1933979691" CREATED="1630279513642" MODIFIED="1632139730275"/>
+<node TEXT="takes months or years overall" ID="ID_293402126" CREATED="1633948859131" MODIFIED="1633948918653"/>
 </node>
-<node TEXT="reasons" STYLE_REF="topic" POSITION="right" ID="ID_240288381" CREATED="1630060381910" MODIFIED="1630287511658" BACKGROUND_COLOR="#ffffff">
+<node TEXT="reasons" STYLE_REF="topic" POSITION="right" ID="ID_240288381" CREATED="1630060381910" MODIFIED="1633035141848" BACKGROUND_COLOR="#ffffff">
 <edge COLOR="#000000"/>
-<attribute NAME="src" VALUE="cottee"/>
 <richcontent CONTENT-TYPE="plain/" TYPE="DETAILS" HIDDEN="true"/>
 <node TEXT="morality" STYLE_REF="list item" ID="ID_817058562" CREATED="1630060795490" MODIFIED="1631708456265">
 <node TEXT="behaviour of other muslims" STYLE_REF="list item" ID="ID_968788649" CREATED="1630060826604" MODIFIED="1632139226199" HGAP_QUANTITY="17 pt" VSHIFT_QUANTITY="21.75 pt">
@@ -244,7 +292,9 @@
 <edge COLOR="#000000"/>
 <node TEXT="no music with instruments" ID="ID_1299939300" CREATED="1630065573361" MODIFIED="1632139278528">
 <node TEXT="" STYLE_REF="source node" ID="ID_1734203501" CREATED="1630085409704" MODIFIED="1630291334774">
-<node TEXT="Mufti Menk" ID="ID_1238446400" CREATED="1630085414094" MODIFIED="1630091461952" LINK="https://www.youtube.com/shorts/66t2mLXtj9E">
+<node TEXT="Mufti Menk" ID="ID_1238446400" CREATED="1630085414094" MODIFIED="1633294280712" LINK="https://www.youtube.com/shorts/66t2mLXtj9E" COLOR="#666666">
+<icon BUILTIN="question@b"/>
+<font ITALIC="true"/>
 <node TEXT="modern songs have filthy lyrics" STYLE_REF="speech" ID="ID_1900234973" CREATED="1630087656188" MODIFIED="1630290518530">
 <node TEXT="it&apos;s not the lyrics but the musical instruments that are prohibited" STYLE_REF="against" ID="ID_980650901" CREATED="1630090190312" MODIFIED="1630290682617"/>
 </node>
@@ -268,11 +318,11 @@
 <node TEXT="the least effective in changing people&apos;s mind" STYLE_REF="against" ID="ID_1938143938" CREATED="1630316096275" MODIFIED="1630316184377"/>
 </node>
 </node>
-<node TEXT="sources" STYLE_REF="topic" POSITION="left" ID="ID_333829316" CREATED="1630069644337" MODIFIED="1630287636039">
+<node TEXT="" STYLE_REF="topic" POSITION="left" ID="ID_333829316" CREATED="1630069644337" MODIFIED="1633370418999">
+<icon BUILTIN="emoji-26F2"/>
 <edge COLOR="#000000"/>
-<node TEXT="The Apostates When Muslims Leave Islam, Simon Cottee" ID="ID_1702352580" CREATED="1630069651095" MODIFIED="1630084289735">
+<node TEXT="The Apostates When Muslims Leave Islam, Simon Cottee" ID="ID_1702352580" CREATED="1630069651095" MODIFIED="1634413707693" LINK="../../../../../M:/books/religion/The%20Apostates%20When%20Muslims%20Leave%20Islam%20by%20Simon%20Cottee%20%5BCottee,%20Simon%5D.pdf">
 <edge COLOR="#000000"/>
-<attribute NAME="mark" VALUE="cottee"/>
 </node>
 </node>
 <node TEXT="type: study" POSITION="left" ID="ID_823880055" CREATED="1631768184742" MODIFIED="1631769816807"/>

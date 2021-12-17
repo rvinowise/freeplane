@@ -6,15 +6,10 @@ import groovy.time.TimeCategory
 import groovy.time.TimeDuration
 
 import java.nio.charset.Charset;
+import com.rvinowise.freeplane.NodeManipulator
 
 
-user_dir = c.getUserDirectory()
-evaluate(new File("$user_dir\\scripts\\nodeManipulation.groovy"))
-nm.init(c, node)
-
-
-
-Rhyme_finder rhyme_finder = new Rhyme_finder(c, node, nm)
+Rhyme_finder rhyme_finder = new Rhyme_finder(c, node)
 rhyme_finder.find_rhymes(node)
 
 
@@ -22,17 +17,7 @@ class Rhymed_ending{
 	String text
 	def base_word
 	def rhymed_word
-	// def base_ending
-	// def rhymed_ending
 	def same_words(Rhymed_ending other) {
-		// return (
-		// 	(base_word.is(other.base_word)) &&
-		// 	(rhymed_word.is(other.rhymed_word))
-		// ) ||
-		// (
-		// 	(base_word.is(other.rhymed_word)) &&
-		// 	(rhymed_word.is(other.base_word))
-		// )
 		return (
 			(base_word.id == other.base_word.id)&&
 			(rhymed_word.id == other.rhymed_word.id)
@@ -64,7 +49,7 @@ class Rhymed_ending{
 	transliteration -> 
 	ending
  */
- @Log
+@Log
 class Rhyme_finder {
 
 def c
@@ -73,13 +58,13 @@ def nm
 def endings_hub
 def filter_node
 
-Rhyme_finder(_c,_node,_nm) {
+Rhyme_finder(_c,_node) {
 	c = _c
 	node = _node
-	nm = _nm
+	nm = new NodeManipulator(c, node);
 	init_control_nodes()
 	def user_dir = c.getUserDirectory()
-	FileHandler handler = new FileHandler("$user_dir/poetry_logs/poetry.log", true);
+	FileHandler handler = new FileHandler("$user_dir/logs/poetry2.log", true);
 	handler.setFormatter(new SimpleFormatter())
 	log.addHandler(handler)
 }
@@ -107,7 +92,7 @@ def find_rhymes(base_line) {
 }
 
 def check_rhymes_between_ONE_CYCLE(base_line, rhymed_line) {
-	def rhymes_hub = nm.obtain_node('rhymes with '+rhymed_line.text, base_line)
+	
 	
 	def base_endings = get_rhymed_endings(base_line)
 	def rhymed_endings = get_rhymed_endings(rhymed_line)
@@ -120,6 +105,7 @@ def check_rhymes_between_ONE_CYCLE(base_line, rhymed_line) {
 
 	delete_unnecessary_rhymes(endings)
 
+	def rhymes_hub = nm.obtain_node('rhymes with '+rhymed_line.text, base_line)
 	for (ending in endings) {
 		append_found_rhyme(
 			rhymes_hub, 
@@ -178,25 +164,25 @@ def compare_rhymed_endings(o1, o2) {
 
 
 def get_rhymed_part(segment) {
-	return segment.text.replace('+','')
+	return segment.text.replace('+','').replace('?','')
 }
 
 
 
-def find_equalities(
-	base_ending,
-	checked_ending
-) {
-	def base_variations = get_ending_variations(base_ending)
-	def checked_variations = get_ending_variations(checked_ending)
-	def equalities = nm.intersect(
-		base_variations,
-		checked_variations,
-		this.&compare_strings
-	)
+// def find_equalities(
+	// base_ending,
+	// checked_ending
+// ) {
+	// def base_variations = get_ending_variations(base_ending)
+	// def checked_variations = get_ending_variations(checked_ending)
+	// def equalities = nm.intersect(
+		// base_variations,
+		// checked_variations,
+		// this.&compare_strings
+	// )
 
-	return equalities;
-}
+	// return equalities;
+// }
 
 
 def get_ending_variations(segmented_ending) {
@@ -215,8 +201,12 @@ def get_ending_variations(segmented_ending) {
 
 def get_segment_variations(segment) {
 	def variations = []
+	String segment_text = segment.text;
+	if (segment.text.endsWith("?")) {
+		segment_text = segment.text.substring(0, segment.text.length()-1)
+	}
 	endings_hub.children.each { ending_group ->
-		if (segment.text == ending_group.text) {
+		if (segment_text == ending_group.text) {
 			link_packed_ending_with_explanation(segment, ending_group)
 			variations = get_leaves(ending_group)
 				.findAll { n ->
@@ -228,10 +218,15 @@ def get_segment_variations(segment) {
 					get_rhymed_part(n)
 				}
 		}
+		
 	}
 	if (variations.size()==0) {
 		variations.add(get_rhymed_part(segment)) 
 	}
+	if (segment.text.endsWith("?")) {
+		variations.add("")
+	}
+	
 	return variations;
 }
 
@@ -243,7 +238,7 @@ def is_filtered_out(variation) {
 }
 
 def is_comment(node) {
-	nm.find_in_parents(
+	nm.find_back_in_hierarchy(
 		node, 
 		this.&is_info, 
 		endings_hub
@@ -286,8 +281,15 @@ def get_segmented_endings(node) {
 		def segments = [leaf]
 		append_parent_segments(segments)
 		endings.add(segments)
+		debug_attach_endings(leaf, segments)
 	}
 	return endings;
+}
+
+def debug_attach_endings(node, segments) {
+	def var_node = node.createChild()
+	var_node.text = get_ending_variations(segments).toString()
+	var_node.icons.add("letter_i")
 }
 
 def is_ending_filtered(node, local_root) {
@@ -318,7 +320,10 @@ def get_leaves(node) {
 def append_parent_segments(ending) {
 	
 	def parent = ending.last().parent
-	while(parent.text.endsWith('+')) {
+	while(
+		parent.text.endsWith('+') ||
+		parent.text.endsWith('?')
+	) {
 		ending.add(
 			parent
 		)

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="641.76392"
+   height="600"
+   viewBox="-600 -400 855.68522 800"
+   version="1.1"
+   id="svg60"
+   sodipodi:docname="earth_flag.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.455"
+     inkscape:cx="320.61856"
+     inkscape:cy="299.65636"
+     inkscape:window-width="2560"
+     inkscape:window-height="1284"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg60"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs22">
+    <circle
+       id="rb"
+       r="145.6633"
+       fill="none"
+       stroke="#013ba6"
+       stroke-width="39.0304"
+       cx="0"
+       cy="0" />
+    <circle
+       id="rw"
+       r="145.6633"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="17.3468"
+       cx="0"
+       cy="0" />
+    <clipPath
+       id="o">
+      <path
+         d="m 0,-200 v 400 h 200 v -400 z m -200,0 v 400 h 100 v -400 z"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       id="h">
+      <path
+         d="M -200,-200 H 200 V 50 h -400 z"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       id="i1">
+      <path
+         d="M 0,0 -200,-150 V 150 Z"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       id="i2">
+      <path
+         d="M 0,0 -200,-200 V 200 Z"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       id="l1">
+      <path
+         d="M 0,0 -50,-200 H -200 V 150 Z"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       id="l2">
+      <path
+         d="M 0,0 V -200 H -200 V 200 Z"
+         id="path19" />
+    </clipPath>
+  </defs>
+  <rect
+     width="855.68524"
+     height="800"
+     x="-600"
+     y="-400"
+     fill="#013ba6"
+     id="rect24"
+     style="stroke-width:0.844435" />
+  <g
+     id="ro"
+     transform="matrix(1.37126,0,0,1.37126,27.584871,0)">
+    <use
+       xlink:href="#rb"
+       clip-path="url(#o)"
+       id="use26"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#rw"
+       id="use28"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <use
+     xlink:href="#ro"
+     transform="rotate(-60,-172.15738,3.7931878e-6)"
+     id="use31"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#ro"
+     transform="rotate(60,-172.15738,-3.7931879e-6)"
+     id="use33"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#ro"
+     transform="rotate(120,-172.15738,4.022707e-7)"
+     id="use35"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#ro"
+     transform="rotate(180,-172.15738,0)"
+     id="use37"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#ro"
+     transform="rotate(-120,-172.15738,-4.0227072e-7)"
+     id="use39"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <g
+     id="g45"
+     transform="matrix(1.37126,0,0,1.37126,-172.15738,0)">
+    <use
+       xlink:href="#rb"
+       clip-path="url(#h)"
+       id="use41"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#rw"
+       id="use43"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     transform="matrix(1.37126,0,0,1.37126,27.584871,0)"
+     id="g51">
+    <use
+       xlink:href="#rb"
+       clip-path="url(#i1)"
+       id="use47"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#rw"
+       clip-path="url(#i2)"
+       id="use49"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     id="rl"
+     transform="matrix(-0.68563,1.187546,-1.187546,-0.68563,-272.0285,172.98186)">
+    <use
+       xlink:href="#rb"
+       clip-path="url(#l1)"
+       id="use53"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#rw"
+       clip-path="url(#l2)"
+       id="use55"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <use
+     xlink:href="#rl"
+     transform="matrix(-1,0,0,1,-344.31476,0)"
+     id="use58"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+</svg>

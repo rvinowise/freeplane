@@ -177,7 +177,7 @@
 <node TEXT="biggest amount of terrorism" STYLE_REF="against" ID="ID_1232359228" CREATED="1631767191431" MODIFIED="1631767210521">
 <node TEXT="TheReligionofPeace.com(TROP)" STYLE_REF="source node" ID="ID_293810674" CREATED="1631767212116" MODIFIED="1631776401414" LINK="https://thereligionofpeace.com/">
 <node TEXT="Media Bias/Fact Check (MBFC)" STYLE_REF="in favour of" ID="ID_1296080679" CREATED="1631788069861" MODIFIED="1631788484966" LINK="https://mediabiasfactcheck.com/the-religion-of-peace/">
-<node TEXT="gives a low rating because of biass" STYLE_REF="against" ID="ID_438775114" CREATED="1631788486948" MODIFIED="1631788549160"/>
+<node TEXT="gives a low rating because of TROP&apos;s biass" STYLE_REF="against" ID="ID_438775114" CREATED="1631788486948" MODIFIED="1631788788523"/>
 <node TEXT="most sources of TROP are reliable" STYLE_REF="in favour of" ID="ID_1262502448" CREATED="1631788501619" MODIFIED="1631788578867"/>
 </node>
 </node>
@@ -197,7 +197,9 @@
 </html>
 </richcontent>
 <node TEXT="jain extremists are &quot;extremely peaceful&quot;" STYLE_REF="in favour of" ID="ID_95751919" CREATED="1631776419711" MODIFIED="1631779617839">
+<node TEXT="they cover mouthes to not swallow an insect,&#xa;swipe the road with a broom to not smash insects,&#xa;swear to make a limited amount of steps a day" ID="ID_1912719644" CREATED="1631788866296" MODIFIED="1631789001059">
 <node TEXT="Insects in the Religions of India&#xa;DOI: 10.1093/ae/59.4.200" STYLE_REF="source node" ID="ID_802268042" CREATED="1631776938095" MODIFIED="1631777778056" LINK="https://www.researchgate.net/figure/Jain-monks-wear-mesh-over-their-faces-to-avoid-inhaling-insects-and-carry-soft-brooms-to_fig1_262855310"/>
+</node>
 </node>
 <node TEXT="why do islamic extremists(strict followers) kill people?" LOCALIZED_STYLE_REF="default" ID="ID_891137798" CREATED="1631767682413" MODIFIED="1631776687177"/>
 </node>

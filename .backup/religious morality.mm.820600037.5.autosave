@@ -9,7 +9,7 @@
     </attribute_name>
 </attribute_registry>
 <node TEXT="religious morality" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1630735664401"><hook NAME="MapStyle" zoom="1.242">
-    <properties fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
+    <properties show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#ff3333ff,#33ff00ff,#ffcc33ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -197,15 +197,21 @@
 </html>
 </richcontent>
 <node TEXT="jain extremists are &quot;extremely peaceful&quot;" STYLE_REF="in favour of" ID="ID_95751919" CREATED="1631776419711" MODIFIED="1631779617839">
-<node TEXT="they cover mouses to not swallow an insect," ID="ID_1912719644" CREATED="1631788866296" MODIFIED="1631788920200">
+<node TEXT="they cover mouths to not swallow insects,&#xa;swipe the road with a broom to not smash insects,&#xa;swear to make a limited amount of steps a day" ID="ID_1912719644" CREATED="1631788866296" MODIFIED="1631789027461">
 <node TEXT="Insects in the Religions of India&#xa;DOI: 10.1093/ae/59.4.200" STYLE_REF="source node" ID="ID_802268042" CREATED="1631776938095" MODIFIED="1631777778056" LINK="https://www.researchgate.net/figure/Jain-monks-wear-mesh-over-their-faces-to-avoid-inhaling-insects-and-carry-soft-brooms-to_fig1_262855310"/>
 </node>
 </node>
-<node TEXT="why do islamic extremists(strict followers) kill people?" LOCALIZED_STYLE_REF="default" ID="ID_891137798" CREATED="1631767682413" MODIFIED="1631776687177"/>
+<node TEXT="why is the extreme degree of islam so violent?" LOCALIZED_STYLE_REF="default" ID="ID_891137798" CREATED="1631767682413" MODIFIED="1631789119912"/>
 </node>
 </node>
 </node>
 <node TEXT="critics of islam receive the most death threats" STYLE_REF="against" ID="ID_488677628" CREATED="1631776598437" MODIFIED="1631776617450"/>
+</node>
+<node TEXT="secularism" ID="ID_589155641" CREATED="1631791222445" MODIFIED="1631791227050">
+<node TEXT="the smallest amount of crime is in atheistic countries" ID="ID_428779163" CREATED="1631791231774" MODIFIED="1631791279254">
+<node TEXT="northern europe" ID="ID_1182474869" CREATED="1631791245653" MODIFIED="1631791249920"/>
+<node TEXT="japan" ID="ID_1132632519" CREATED="1631791263062" MODIFIED="1631791265320"/>
+</node>
 </node>
 </node>
 <node TEXT="type: debate" POSITION="left" ID="ID_683065071" CREATED="1631768151045" MODIFIED="1631768173614"/>
