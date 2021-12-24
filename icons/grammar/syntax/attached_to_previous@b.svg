@@ -6,11 +6,12 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   viewBox="0 0 512 512"
-   style="enable-background:new 0 0 512 512;"
+   viewBox="0 0 406.44025 532.0553"
    xml:space="preserve"
-   sodipodi:docname="arrow_facing@b.svg"
+   sodipodi:docname="attached_to_previous@b.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="406.44025"
+   height="532.0553"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +26,8 @@
    inkscape:pagecheckerboard="0"
    showgrid="false"
    inkscape:zoom="1.3320312"
-   inkscape:cx="320.1877"
-   inkscape:cy="253.74781"
+   inkscape:cx="322.81526"
+   inkscape:cy="264.25807"
    inkscape:window-width="2560"
    inkscape:window-height="1284"
    inkscape:window-x="-11"
@@ -34,8 +35,12 @@
    inkscape:window-maximized="1"
    inkscape:current-layer="g4"
    showguides="true"
-   inkscape:guide-bbox="true"><sodipodi:guide
-     position="256,487.05012"
+   inkscape:guide-bbox="true"
+   fit-margin-left="5"
+   fit-margin-right="5"
+   fit-margin-top="100"
+   fit-margin-bottom="100"><sodipodi:guide
+     position="3.354228,11.028281"
      orientation="-1,0"
      id="guide2940"
      inkscape:label=""
@@ -43,77 +48,77 @@
      inkscape:color="rgb(0,0,255)" /></sodipodi:namedview>
 <g
    id="g6"
-   transform="matrix(0,-1,-0.76269296,0,511.5904,512.04541)">
+   transform="matrix(0,-1,-0.76269296,0,514.44463,522.0237)">
 	<g
    id="g4">
 		<path
-   d="M 407,123.73704 H 332 V 16.501463 C 332,8.2114628 325.29,1.5014628 317,1.5014628 H 195 c -8.29,0 -15,6.71 -15,15.0000002 V 123.73704 h -75 c -12.68,0 -19.69,14.84 -11.52,24.61 L 256,334.72827 v 0 L 418.51,148.34704 c 8.17,-9.77 1.17,-24.61 -11.51,-24.61 z"
+   d="M 407,270.40057 H 332 V 163.16499 c 0,-8.29 -6.71,-15 -15,-15 H 195 c -8.29,0 -15,6.71 -15,15 v 107.23558 h -75 c -12.68,0 -19.69,14.84 -11.52,24.61 L 256,481.3918 v 0 L 418.51,295.01057 c 8.17,-9.77 1.17,-24.61 -11.51,-24.61 z"
    id="path2"
    sodipodi:nodetypes="scsssscsccccs" /><path
-   d="m 407,545.71949 h -75 v 107.23558 c 0,8.29 -6.71,15 -15,15 H 195 c -8.29,0 -15,-6.71 -15,-15 V 545.71949 h -75 c -12.680004,0 -19.690004,-14.84 -11.520004,-24.61 L 256,334.72827 v 0 l 162.51,186.38122 c 8.17,9.77 1.17,24.61 -11.51,24.61 z"
+   d="m 407,545.71949 h -75 v 107.23558 c 0,8.29 -6.71,15 -15,15 H 195 c -8.29,0 -15,-6.71 -15,-15 V 545.71949 h -75 c -12.680004,0 -19.690004,-14.84 -11.520004,-24.61 L 168.67001,425.41988 256,523.71752 v 0 l 83.75568,-91.81435 78.75432,89.20632 c 8.17,9.77 1.17,24.61 -11.51,24.61 z"
    id="path2-5"
-   sodipodi:nodetypes="scsssscsccccs" />
+   sodipodi:nodetypes="scsssscsccccccs" />
 	</g>
 </g>
 
 <g
    id="g14"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g16"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g18"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g20"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g22"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g24"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g26"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g28"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g30"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g32"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g34"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g36"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g38"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g40"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 <g
    id="g42"
-   transform="matrix(1,0,0,-1,0,512)">
+   transform="matrix(1,0,0,-1,2.854228,521.97829)">
 </g>
 </svg>
